@@ -1,0 +1,10 @@
+utente1;56000
+Pl23;69000
+player2;73000
+user10;78000
+utente1;87000
+prova;95429
+player123;109959
+ciao;111474
+giocatore365;148141
+player1;156000

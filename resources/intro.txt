@@ -1,0 +1,9 @@
+================================
+*       Fuga dalla Cripta       *
+*         developed by         *
+*       Natrella Daniele       *
+================================
+
+Ti sei risvegliato in una cripta buia.
+La testa ti scoppia e non ricordi nulla di cio' che e' successo.
+Sara' il caso di trovare un modo per uscire da qui!
